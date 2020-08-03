@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/himanshu/Documents/test-project/routes/api.php</file>
+            <file>file:/home/himanshu/Documents/test-project/resources/js/app.js</file>
+            <file>file:/home/himanshu/Documents/test-project/resources/views/home/show.blade.php</file>
+            <file>file:/home/himanshu/Documents/test-project/webpack.mix.js</file>
+            <file>file:/home/himanshu/Documents/test-project/resources/js/functionality.js</file>
+            <file>file:/home/himanshu/Documents/test-project/app/Http/Controllers/HomeController.php</file>
+            <file>file:/home/himanshu/Documents/test-project/app/Http/Controllers/API/Beverages/BeverageController.php</file>
+            <file>file:/home/himanshu/Documents/test-project/resources/views/layouts/partials/footer-scripts.blade.php</file>
+            <file>file:/home/himanshu/Documents/test-project/.env</file>
+            <file>file:/home/himanshu/Documents/test-project/config/database.php</file>
+            <file>file:/home/himanshu/Documents/test-project/routes/web.php</file>
+            <file>file:/home/himanshu/Documents/test-project/app/Models/Beverage.php</file>
+            <file>file:/home/himanshu/Documents/test-project/package.json</file>
+        </group>
+    </open-files>
+</project-private>
